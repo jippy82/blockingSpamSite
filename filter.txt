@@ -12,5 +12,4 @@
 !
 
 # [General]
-127.0.0.1 https://theoverheat.com/J7qvToWLcTi7B8iMaNeAtdRYtGx6Cb6aGsvceqlk5ig/
-
+127.0.0.1 theoverheat.com
