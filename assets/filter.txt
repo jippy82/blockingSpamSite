@@ -4,5 +4,6 @@
 ! Homepage: https://github.com/jippy82/blockingSpamSite
 ! Description: Blocklist for Stats and any analytics, lottery, bug trackers, ads, data brokers, font content delivery networks and consent management
 ! Version: 20220723
-!
+
 ||theoverheat.com^
+||stake.com^
